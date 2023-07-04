@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BRANCHES"],"enum":["OperatorApiError"],"static":["CALLSITE","CONNECTION_CHANNEL_SIZE","MIRRORD_OPERATOR_SESSION_ID"],"struct":["ConnectionWrapper","OperatorApi"],"type":["Result"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DETOUR_BYPASS"],"enum":["Bypass","Detour"],"fn":["detour_bypass_off","detour_bypass_on"],"struct":["DetourGuard","HookFn"],"trait":["OnceLockExt","OptionExt"]};

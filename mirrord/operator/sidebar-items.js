@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_status_api","operator_command","operator_setup","operator_status"]};

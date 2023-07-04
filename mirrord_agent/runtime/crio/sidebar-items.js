@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"static":["CALLSITE","CRIO_DEFAULT_SOCK_PATH"],"struct":["ContainerStatus","CriOContainer"]};
